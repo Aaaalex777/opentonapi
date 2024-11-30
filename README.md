@@ -36,4 +36,4 @@ ACCOUNTS="comma-separated-list-of-raw-account-addresses" make run
 
 ## Docker
 
-docker run -d -p8081:8081 tonkeeper/opentonapi 
+docker run -d -p8081:8081 tonkeeper/opentonapi
